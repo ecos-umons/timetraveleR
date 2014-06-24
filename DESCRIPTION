@@ -1,0 +1,12 @@
+Package: timetraveleR
+Type: Package
+Title: R/CRAN environment on VM using Vagrant
+Version: 1.0
+Date: 2013-08-21
+Author: Maëlick Claes <himself@maelick.net>
+Maintainer: Maëlick Claes <himself@maelick.net>
+Description: VirtualBox virtual machine manipulation using Vagrant to recreate a
+             R/CRAN environment.
+Imports: igraph
+License: GPL-3
+Encoding: UTF-8
